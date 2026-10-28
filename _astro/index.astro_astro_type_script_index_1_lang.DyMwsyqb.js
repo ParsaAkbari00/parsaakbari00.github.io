@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/mount.DdnhtLFJ.js","_astro/palette.Bim8daJ4.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./preload-helper.DHhhL8Zf.js";var t=document.querySelector(`[data-figure="pipeline"]`);t&&e(()=>import(`./mount.DdnhtLFJ.js`).then(e=>e.mount(t)),__vite__mapDeps([0,1]));
